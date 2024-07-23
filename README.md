@@ -1,4 +1,4 @@
-Got it, here is the presentation of your GitHub profile in English:
+
 
 👋 Hi, I'm @nassimrahari!
 👀 I'm interested in web, mobile, and desktop development. It's a very diverse field that I'm passionate about.
